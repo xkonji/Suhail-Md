@@ -21,7 +21,7 @@ global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
 global.github=process.env.GITHUB|| "https://github.com/xkonji/Suhail-Md";
 global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/IngeodcvJRzBtfiPFc82Q7";
 global.website=process.env.GURL || "https://chat.whatsapp.com/IngeodcvJRzBtfiPFc82Q7" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/Suhail-04-07-3" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/13444f4d9deb81ce77c50.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
